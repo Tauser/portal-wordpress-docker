@@ -1,0 +1,42 @@
+version: '3'
+
+services:
+  db:
+    image: mysql:5.7
+    restart: always
+    environment:
+      MYSQL_DATABASE: exampledb
+      MYSQL_USER: exampleuser
+      MYSQL_PASSWORD: examplepass
+      MYSQL_RANDOM_ROOT_PASSWORD: '1'
+    ports:
+      - 3306:3306
+  wordpress:
+    #image: fchipi/wordpress-xdebug:v1.2.0
+    build: ./
+    restart: always
+    ports:
+      - 8081:80
+    environment:
+      WORDPRESS_DB_HOST: db
+      WORDPRESS_DB_USER: exampleuser
+      WORDPRESS_DB_PASSWORD: examplepass
+      WORDPRESS_DB_NAME: exampledb
+      XDEBUG_CONFIG: remote_host=10.251.12.128
+      HTTP_PROXY: http://10.251.12.128:3128
+      HTTPS_PROXY: http://10.251.12.128:3128
+      NO_PROXY: '*.camara.gov.br,.camara.leg.br,es'
+      WP_AMBIENTE: dev
+    volumes: 
+      - ./html:/var/www/html/
+  phpmyadmin:
+    image: phpmyadmin/phpmyadmin
+    container_name: phpmyadmin_new
+    ports:
+      - 9191:80
+    environment:
+      - PMA_ARBITRARY=1
+      - PMA_HOST=db
+    depends_on:
+      - db
+    restart: always

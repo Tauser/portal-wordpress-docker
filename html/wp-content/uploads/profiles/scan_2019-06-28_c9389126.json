@@ -1,0 +1,1 @@
+{"url":"\/wp-admin\/tools.php?page=p3-profiler&#038;p3_action=current-scan","ip":"172.18.0.1","pid":97,"date":"2019-06-28T12:20:29+00:00","runtime":{"total":2.1675360202789307,"wordpress":0.00014400482177734375,"theme":0,"plugins":2.1661558151245117,"profile":0.1907198429107666,"breakdown":{"p3-profiler":2.1661558151245117}},"memory":6291456,"stacksize":7,"queries":20}

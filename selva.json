@@ -1,0 +1,67 @@
+{
+    "id": "2d866613-fe47-4c36-8cab-43207b9eacb0",
+    "titulo": "Deputados aprovaram uso de dinheiro do pré-sal para financiar gasodutos",
+    "resumo": "Texto direciona para a expansão da rede de transporte e escoamento de gás natural 20% dos recursos da venda do petróleo que cabe à União nos contratos de exploração do pré-sal sob o regime de partilha",
+    "idAreaConteudo": "1",
+    "conteudos": [
+        {
+            "tipo": "PARAGRAFO",
+            "url": null,
+            "orientacao": null,
+            "altText": null,
+            "legenda": null,
+            "texto": "<p>No primeiro semestre de 2019, o Plenário da Câmara aprovou o Projeto de Lei <a href='https: //www2.camara.leg.br/camaranoticias/noticias/ECONOMIA/579004-CAMARA-APROVA-DESTINACAO-DE-RECURSOS-DO-PRE-SAL-PARA-FINANCIAR-GASODUTOS.html' targer='_blank'>10985/18</a>, do Senado, que cria o Fundo de Expansão dos Gasodutos de Transporte e de Escoamento da Produção (Brasduto). O texto trata ainda de mudanças no setor elétrico para compensar hidrelétricas pela falta de chuvas que ocasionou perdas financeiras. A matéria está em análise no Senado devido a mudanças feitas pelos deputados.</p>"
+        },
+        {
+            "tipo": "PARAGRAFO",
+            "url": null,
+            "orientacao": null,
+            "altText": null,
+            "legenda": null,
+            "texto": "<p>A principal polêmica quanto ao Brasduto foi o uso de parte das verbas que abastecem o <span class='termoGlossario' title='Fundo público abastecido com recursos obtidos da exploração da camada pré-sal (royalties e bônus de assinatura). Os recursos devem ser aplicados em educação, saúde, cultura, esporte, ciência e tecnologia e meio ambiente. Segundo a legislação, a educação pública receberá 50% dos investimentos até que sejam cumpridas as metas estabelecidas no Plano Nacional de Educação (PNE).'>Fundo Social</span>, criado pela Lei 12.351/10 para acumular parte de recursos obtidos com o petróleo do <span class='termoGlossario' title='Refere-se a um conjunto de rochas localizadas no fundo do mar, abaixo de uma extensa camada de sal, com potencial para a geração e acúmulo de petróleo. Os reservatórios brasileiros nessa camada estão a aproximadamente 7 mil metros de profundidade, em uma faixa que se estende por cerca de 800 km entre o Espírito Santo e Santa Catarina.'>pré-sal</span> e direcioná-los a programas nas áreas de educação; cultura; esporte; saúde pública; ciência e tecnologia; e meio ambiente.</p>"
+        },
+        {
+            "tipo": "IMAGEM",
+            "url": "https://www.camara.leg.br/internet/bancoimagem/banco/2019/07/img20190719170117519MED.jpg",
+            "orientacao": "aoTexto",
+            "altText": null,
+            "legenda": "O gasoduto é uma rede de tubulações que leva o gás natural das fontes produtoras até os centros consumidores",
+            "texto": null
+        },
+        {
+            "tipo": "PARAGRAFO",
+            "url": null,
+            "orientacao": null,
+            "altText": null,
+            "legenda": null,
+            "texto": "<p>Pelo texto aprovado, o Fundo Social ficará com 30% do dinheiro obtido com a venda do petróleo da União segundo as regras do regime de partilha para o pré-sal.</p>"
+        },
+        {
+            "tipo": "PARAGRAFO",
+            "url": null,
+            "orientacao": null,
+            "altText": null,
+            "legenda": null,
+            "texto": "<p>Outros 20% irão para o Brasduto; e 50% serão repartidos entre estados e municípios (30%) e União (20%) para aplicação em educação (75%) e saúde (25%).</p>"
+        },
+        {
+            "tipo": "PARAGRAFO",
+            "url": null,
+            "orientacao": null,
+            "altText": null,
+            "legenda": null,
+            "texto": "<p>O projeto também muda várias regras do setor elétrico nacional, permitindo o aumento do prazo de outorga de usinas hidrelétricas que tiveram perdas financeiras por falta de chuvas e atrasos na operação de grandes geradoras, como da usina de Belo Monte.</p>"
+        },
+        {
+            "tipo": "PARAGRAFO",
+            "url": null,
+            "orientacao": null,
+            "altText": null,
+            "legenda": null,
+            "texto": "<p><strong>Reportagem - Eduardo Piovesan Edição - Marcelo Oliveira</strong></p>"
+        }
+    ],
+    "dataCriacao": "2019-08-05T08:28:41.278",
+    "dataPublicacao": "2019-08-05T08:28:46.222",
+    "status": "publicado"
+}
